@@ -1,2 +1,3 @@
 # hello-world
-First respiratory on Git
+
+ANU MSI is awesome. Wanna work hard here!
